@@ -14,11 +14,11 @@ It's a Simple Blogger Template for Developer! You can use it for free!
 ## Live Demo
 [Click Here to See Live Demo](https://devblog-blogger-template.blogspot.com/)
 
-## How To Install
-- Copy everything from ```template.xml``` file.
-- Go to Blogger and navigate to ```Theme``` tab. From the dropdown menu, click on ```Backup``` to backup your existing template.
-- Now click on ```Edit HTML``` and remove everything. Paste everything that you copied from ```template.xml```.
-- Click on save button. That's all.
+## Installation Steps
+- Copy the entire content from the ```template.xml``` file.
+- Visit Blogger and go to the ```Theme``` tab. From the dropdown menu, select ```Backup``` to save your current template.
+- Now, click on ```Edit HTML``` and delete all existing code. Paste the content copied from ```template.xml```.
+- Click the Save button to apply the changes. That's it!
 
 ## How To Change Name and Social Media Links
 - Navigate to the ```Edit HTML``` option in the ```Theme``` tab. Locate the relevant code, and update the ```value``` property with your information. Finally, click on "Save" to apply the changes.
