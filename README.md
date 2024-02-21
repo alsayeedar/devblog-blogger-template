@@ -4,7 +4,7 @@ It's a Simple Blogger Template for Developer! You can use it for free!
 ## Screenshots
 <p align="center" width="100%">
     <img width="45%" src="https://raw.githubusercontent.com/alsayeedar/devblog-blogger-template/main/Screenshots/1.png"/>
-    <img width="45%" src="https://raw.githubusercontent.com/alsayeedar/devblog-blogger-template/main/Screenshots/2.png"/>
+    <img width="45%" src="https://raw.githubusercontent.com/alsayeedar/devblog-blogger-template/main/Screenshots/2.2.png"/>
 </p>
 <p align="center" width="100%">
     <img width="45%" src="https://raw.githubusercontent.com/alsayeedar/devblog-blogger-template/main/Screenshots/3.png"/>
